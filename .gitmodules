@@ -1,0 +1,9 @@
+[submodule "bully-algorithm"]
+	path = bully-algorithm
+	url = https://github.com/mmaico/bully-algorithm.git
+[submodule "proof-of-work"]
+	path = proof-of-work
+	url = https://github.com/mmaico/proof-of-work.git
+[submodule "zab-consensus"]
+	path = zab-consensus
+	url = https://github.com/mmaico/zab-consensus.git
